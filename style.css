@@ -1,0 +1,16 @@
+/* Estilo para o título (h1) */
+h1 {
+    color: #3366cc; /* Cor do texto */
+    font-size: 24px; /* Tamanho da fonte */
+    text-align: center; /* Alinhamento do texto */
+  }
+  
+  /* Estilo para o parágrafo (p) */
+  p {
+    color: #333; /* Cor do texto */
+    font-size: 16px; /* Tamanho da fonte */
+    text-align: justify; /* Alinhamento do texto */
+  }
+  
+
+
