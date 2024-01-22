@@ -1,7 +1,7 @@
 # Minha Jornada de Aprendizado com  Python
 
   <p align="center">
-  <img width="100" src="tenor.gif" alt="cattocode">
+  <img width="400" src="tenor.gif" alt="cattocode">
 </p>
 
 
