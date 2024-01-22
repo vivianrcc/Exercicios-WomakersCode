@@ -1,7 +1,4 @@
-# Primeiros pasos com Python
-#Bootcamp Back-End Python e Django
-#ExercíciosTomadadeDecisão
-#Faça um Programa que peça dois números e imprima o maior deles.
+''' Faça um Programa que peça dois números e imprima o maior deles. '''
 
 numero1=int (input('Digite um numero '))
 numero2=int (input('Digite um numero '))
