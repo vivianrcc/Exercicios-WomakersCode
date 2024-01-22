@@ -1,6 +1,9 @@
 # Minha Jornada de Aprendizado com  Python
 
-  ![cattocode](https://media1.tenor.com/m/GOj9ZF_-ZOcAAAAC/cat.gif)
+  <p align="center">
+  <img width="100" src="tenor.gif" alt="cattocode">
+</p>
+
 
 Bem-vindo ao meu repositório de aprendizado em Python! Este é um espaço onde estou documentando minha jornada enquanto começo a explorar o mundo da programação com Python. À medida que aprendo novos conceitos, técnicas e desenvolvo pequenos projetos, compartilho essas experiências aqui.
 
