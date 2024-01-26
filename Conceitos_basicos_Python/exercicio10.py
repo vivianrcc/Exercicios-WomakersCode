@@ -1,0 +1,1 @@
+''' Soliciteaousuárioonúmerodehorasdeexercíciofísicoporsemana.Calculeototaldecaloriasqueimadasemummês,considerandoumamédiade5caloriasporminutodeexercício'''
