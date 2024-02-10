@@ -30,7 +30,7 @@ Sinta-se à vontade para explorar meus projetos, fornecer feedback ou até mesmo
 
 ## Próximos Passos:
 
-Estou animado para continuar minha jornada de aprendizado e expandir meus conhecimentos em Python. Se você tem dicas, sugestões ou simplesmente quer compartilhar sua própria jornada, sinta-se à vontade para entrar em contato!
+Estou animada para continuar minha jornada de aprendizado e expandir meus conhecimentos em Python. Se você tem dicas, sugestões ou simplesmente quer compartilhar sua própria jornada, sinta-se à vontade para entrar em contato!
 
 _Lembre-se: A persistência é a chave para o sucesso na programação. Cada erro é uma oportunidade valiosa de aprendizado._
 
