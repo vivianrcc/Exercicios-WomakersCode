@@ -26,6 +26,7 @@ Sinta-se à vontade para explorar meus projetos, fornecer feedback ou até mesmo
 - Operaçoes Matematicas.                                                                                                                                                            
 - Criaçao de um jogo simples 
 - Blog Pessoal ou Gerador de Site Estático:
+- OOP
 
 
 ## Próximos Passos:
